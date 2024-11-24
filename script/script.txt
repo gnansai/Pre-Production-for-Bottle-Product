@@ -1,0 +1,10 @@
+Product
+WaterBottle with Display
+
+Product Features
+Metallic Surface
+Digital Display
+	Time
+	Water Temperature
+
+Color Variants
